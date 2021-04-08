@@ -10,3 +10,10 @@
   - [ ] [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)
   - [ ] [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
   - [ ] [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
+
+## SQL
+- [ ] [W3Schools - SQL](https://www.w3schools.com/sql/)
+  - [ ] [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+  - [ ] [SQL Database](https://www.w3schools.com/sql/sql_create_db.asp)
+  - [ ] [SQL References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
+  - [ ] [SQL Examples](https://www.w3schools.com/sql/sql_examples.asp)
